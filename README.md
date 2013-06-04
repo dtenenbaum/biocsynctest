@@ -1,4 +1,1 @@
-biocsynctest
-============
-
-bioc sync test
+This file was committed with svn. 
