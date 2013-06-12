@@ -1,2 +1,3 @@
 a whole new file (svn)...
 making another change in git
+add a line in git
